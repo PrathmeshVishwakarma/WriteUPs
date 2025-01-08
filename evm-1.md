@@ -70,6 +70,7 @@ Nmap done: 1 IP address (1 host up) scanned in 42.90 seconds
 Which is running a http server
 
 Visiting it gives us
+
 ![](./Data/evm-1/website.png)
 
 Running Nikto Scan gives is
@@ -277,4 +278,5 @@ now we have the username as `c0rrupt3d_brain` and password as `24992499`
 now we can start a reverse shell with Metasploit
 ![](./Data/evm-1/msf1.png)
 ![](./Data/evm-1/msf2.png)
+
 And there you have it; We solved the Box!
