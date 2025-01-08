@@ -1,6 +1,6 @@
 # mrRobot VM
 
-### Starting with the NMAP scan
+Starting with the NMAP scan
 ```
 Nmap scan report for 192.168.1.8
 Host is up (0.00032s latency).
@@ -247,6 +247,7 @@ Target: https://192.168.1.8/
 Which gives us quiet alot of files including some like robots.txt and license.txt
 
 Further visiting these pages gives us this
+
 ![](./Data/mrRobot/robots.png)
 ![](./Data/mrRobot/license.png)
 
